@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619441661092",
+    "project_id": "marhaba-stores",
+    "storage_bucket": "marhaba-stores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619441661092:android:2d791a0b783a8b46aeb231",
+        "android_client_info": {
+          "package_name": "com.fbip.marhabastores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619441661092-46p2vnn03ocmklckpi99i9a7jor4hrq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANOzBJd9Xo-PtMwsnOg5uKhu7tqSSW7hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619441661092-46p2vnn03ocmklckpi99i9a7jor4hrq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
